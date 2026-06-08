@@ -72,6 +72,10 @@ Platforms enabling live teaching, video-based learning, and remote instruction.
 - [Panopto](https://www.panopto.com/) — Video platform for lecture capture and learning.
 - [Zoom](https://zoom.us/) — Video conferencing platform widely used for online education.
 
+## AI Tools & Agent Infrastructure
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/) — Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in educational AI workflows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Related Awesome Lists
 
 - [Awesome Learning Management Systems](https://github.com/brandonhimpfen/awesome-learning-management-systems) — Tools and platforms for managing courses and learners.
