@@ -25,6 +25,7 @@ Tools and platforms for quizzes, exams, and measuring learner performance.
 - [ExamSoft](https://examsoft.com/) — Assessment platform for secure testing and analytics.
 - [Gradescope](https://www.gradescope.com/) — Assessment and grading platform for assignments and exams.
 - [Kahoot!](https://kahoot.com/) — Game-based learning and assessment platform.
+- [Quizotic](https://www.quizotic.live) - India-first live quiz & interactive presentation platform with AI quiz generation, Bloom's Taxonomy, real-time leaderboards. Free tier, INR billing with UPI.
 - [Quizizz](https://quizizz.com/) — Interactive quizzes and assessment platform for classrooms.
 
 ## Content Creation & Authoring
