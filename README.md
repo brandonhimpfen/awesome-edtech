@@ -53,6 +53,7 @@ Platforms providing courses, tutorials, and structured learning experiences.
 - [edX](https://www.edx.org/) — Online learning platform offering university-level courses.
 - [Khan Academy](https://www.khanacademy.org/) — Free educational platform with lessons across multiple subjects.
 - [Udemy](https://www.udemy.com/) — Marketplace for online courses across various topics.
+- [Thuis Italiaans](https://thuisitaliaans.com/app-ti) — Comprehensive Italian learning platform with CEFR paths (A1-C2), a 4,000+ word dictionary, and graded classic novels, supporting 14 languages.
 
 ## Student Engagement & Collaboration
 
