@@ -52,6 +52,7 @@ Platforms providing courses, tutorials, and structured learning experiences.
 - [Coursera](https://www.coursera.org/) — Online courses and certifications from universities and organizations.
 - [edX](https://www.edx.org/) — Online learning platform offering university-level courses.
 - [Khan Academy](https://www.khanacademy.org/) — Free educational platform with lessons across multiple subjects.
+- [Random Animal Picker](https://randomanimalpicker.com/) — Free, no-signup web reference for exploring real animals through photos, concise facts, source links, and related species.
 - [Udemy](https://www.udemy.com/) — Marketplace for online courses across various topics.
 
 ## Student Engagement & Collaboration
