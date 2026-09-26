@@ -25,6 +25,7 @@ Tools and platforms for quizzes, exams, and measuring learner performance.
 
 - [ExamSoft](https://examsoft.com/) — Assessment platform for secure testing and analytics.
 - [Gradescope](https://www.gradescope.com/) — Assessment and grading platform for assignments and exams.
+- [iBacalao](https://www.ibacalao.com/) — Criterion-by-criterion feedback for Diploma Programme IA, EE, and TOK drafts.
 - [Kahoot!](https://kahoot.com/) — Game-based learning and assessment platform.
 - [Quizizz](https://quizizz.com/) — Interactive quizzes and assessment platform for classrooms.
 
