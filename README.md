@@ -60,6 +60,7 @@ Platforms providing courses, tutorials, and structured learning experiences.
 Tools that support communication, collaboration, and engagement in learning environments.
 
 - [ClassDojo](https://www.classdojo.com/) — Classroom communication and engagement platform.
+- [ClassHelper](https://classhelper.app/) — Web-based classroom screen and digital whiteboard with interactive teaching widgets.
 - [Microsoft Teams for Education](https://www.microsoft.com/en-us/education/products/teams) — Collaboration platform for students and educators.
 - [Padlet](https://padlet.com/) — Collaborative workspace for sharing ideas and content.
 - [Slack](https://slack.com/) — Communication platform used for collaboration in educational and training contexts.
