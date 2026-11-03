@@ -27,6 +27,7 @@ Tools and platforms for quizzes, exams, and measuring learner performance.
 - [Gradescope](https://www.gradescope.com/) — Assessment and grading platform for assignments and exams.
 - [Kahoot!](https://kahoot.com/) — Game-based learning and assessment platform.
 - [Quizizz](https://quizizz.com/) — Interactive quizzes and assessment platform for classrooms.
+- [QuizQuip](https://quizquip.com/) — Free syllabus-aligned science revision for Singapore lower-secondary students: chapter notes, quizzes, topical questions and downloadable practice papers, grouped by exam stage (WA1/WA2/EOY).
 
 ## Content Creation & Authoring
 
