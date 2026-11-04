@@ -45,6 +45,7 @@ Platforms for managing courses, learners, and educational content delivery.
 - [Google Classroom](https://classroom.google.com/) — Platform for managing classroom workflows and assignments.
 - [Moodle](https://moodle.org/) — Open-source learning management system used globally.
 - [TalentLMS](https://www.talentlms.com/) — LMS platform for corporate and educational training.
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ## Online Learning Platforms
 
